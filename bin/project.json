@@ -8,7 +8,7 @@
       "chipFamily": "ESP8266",
       "parts": [
         {
-          "path": "https://raw.githubusercontent.com/GyverLibs/GyverHub-example/main/bin/firmware.bin",
+          "path": "https://github.com/Rustam4005/oledwearth/blob/490c570db99fd8248a61e5768dc2f68a79a5aaa2/esp8266.esp8266.d1_mini/minimal.ino.bin",
           "offset": 0
         }
       ]
