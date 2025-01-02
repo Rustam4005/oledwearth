@@ -1,15 +1,17 @@
-json
 {
-  "name": "GyverHub-example",
-  "about": "Образец оформления репозитория проекта",
-  "version": "1.1", "notes": "Исправлены мелкие баги",
-  "builds": [ 
-    { "chipFamily": "ESP8266", 
-      "parts": [ 
-        { "path": "https://raw.githubusercontent.com/Rustam4005/oledwearth/main/bin/firmware_1_5.bin", 
-          "offset": 0 } 
-      ] 
-    } 
-  ] 
+  "name": "oledwearth",
+  "about": "OTA example for esp8266",
+  "version": "1.1",
+  "notes": "Тестовая прошивка",
+  "builds": [
+    {
+      "chipFamily": "ESP8266",
+      "parts": [
+        {
+          "path": "https://raw.githubusercontent.com/Rustam4005/oledwearth/main/bin/firmware_1_5.bin",
+          "offset": 0
+        }
+      ]
+    }
+  ]
 }
-
