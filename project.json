@@ -1,8 +1,8 @@
 {
   "name": "oledwearth",
-  "about": "Краткое описание проекта",
+  "about": "OTA",
   "version": "1.2",
-  "notes": "Комментарии к обновлению",
+  "notes": "Исправлены мелкие баги",
   "builds": [
     {
       "chipFamily": "ESP8266",
