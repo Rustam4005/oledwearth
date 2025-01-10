@@ -8,7 +8,7 @@
       "chipFamily": "ESP8266",
       "parts": [
         {
-          "path": "https://raw.githubusercontent.com/Rustam4005/oledwearth/main/bin/firmware_1_2.bin",
+          "path": "https://raw.githubusercontent.com/Rustam4005/oledwearth/main/bin/minimal.ino.bin",
           "offset": 0
         }
       ]
