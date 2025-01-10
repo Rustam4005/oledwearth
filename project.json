@@ -1,49 +1,15 @@
 {
   "name": "oledwearth",
-  "about": "OTA",
-  "versions": [
+  "about": "Краткое описание проекта",
+  "version": "1.2",
+  "notes": "Комментарии к обновлению",
+  "builds": [
     {
-      "version": "1.2",
-      "notes": "Исправлены ошибки",
-      "builds": [
+      "chipFamily": "ESP8266",
+      "parts": [
         {
-          "chipFamily": "ESP8266",
-          "parts": [
-            {
-              "path": "https://raw.githubusercontent.com/Rustam4005/oledwearth/main/bin/firmware_1_2.bin",
-              "offset": 0
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "version": "1.1",
-      "notes": "Добавлена новая фича",
-      "builds": [
-        {
-          "chipFamily": "ESP8266",
-          "parts": [
-            {
-              "path": "https://raw.githubusercontent.com/Rustam4005/oledwearth/main/bin/firmware_1_1.bin",
-              "offset": 0
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "version": "1.0",
-      "notes": "Первый релиз",
-       "builds": [
-        {
-          "chipFamily": "ESP8266",
-          "parts": [
-            {
-              "path": "https://raw.githubusercontent.com/Rustam4005/oledwearth/main/bin/firmware_1_0.bin",
-              "offset": 0
-            }
-          ]
+          "path": "https://raw.githubusercontent.com/Rustam4005/oledwearth/main/bin/firmware_1_2.bin",
+          "offset": 0
         }
       ]
     }
